@@ -13,6 +13,8 @@ The V-Card project demonstrates how to create a virtual business card using HTML
 ## Preview
 
 You can view a live preview of the project [here](https://justine-frigo.github.io/v-card/).
+![image](https://github.com/user-attachments/assets/e3ca229b-93b1-44f6-a64a-c4f1e0221177)
+
 
 ## Installation
 
